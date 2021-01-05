@@ -10,4 +10,4 @@ python script to move turtle in circle
 
 3) rosrun <pakage_name> <python_file> 
   
-  a) make sure that the python script is executable
+a) make sure that the python script is executable
